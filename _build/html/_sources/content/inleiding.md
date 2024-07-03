@@ -1,0 +1,9 @@
+# Inleiding
+
+Plastic recycling is een veelbesproken onderwerp dat zowel voorstanders als tegenstanders kent. De overheid en milieubewegingen promoten plastic recycling als een cruciale stap om de planeet schoon te houden en de hoeveelheid afval te verminderen. Ze beweren dat het recyclen van plastic niet alleen helpt om de milieuvervuiling te verminderen, maar ook bijdraagt aan het behoud van natuurlijke hulpbronnen en de vermindering van de productie van nieuw plastic.
+
+Aan de andere kant zijn er critici die stellen dat plastic recycling niet de wonderoplossing is die het lijkt te zijn. Zij wijzen erop dat slechts een klein percentage van het plastic daadwerkelijk wordt gerecycled. Veel plastic eindigt nog steeds in stortplaatsen of wordt verbrand, wat schadelijke effecten heeft op het milieu. Bovendien, zeggen ze, leidt het geloof dat alle plastic gerecycled kan worden tot een vals gevoel van veiligheid bij consumenten, waardoor de productie en het gebruik van plastic niet significant afnemen.
+
+In dit project onderzoeken we de effectiviteit van plastic recycling door verschillende perspectieven te belichten. We analyseren de voordelen van plastic recycling, zoals het verminderen van afval en het behoud van hulpbronnen, evenals de uitdagingen en beperkingen, zoals de beperkte recycleerbaarheid van bepaalde kunststoffen en de milieu-impact van niet-gerecycled plastic. Met behulp van verschillende datasets en visualisaties streven we ernaar om een genuanceerd beeld te schetsen van de huidige staat van plastic recycling en de mogelijke toekomstscenario's.
+
+We beginnen met een gedetailleerde beschrijving van de gebruikte datasets en de voorbewerking ervan, gevolgd door een diepgaande analyse van de verschillende perspectieven. Aan het einde van dit project presenteren we een samenvatting van de bevindingen, een reflectie op het proces en de ontvangen feedback, en een verdeling van het werk onder de teamleden.

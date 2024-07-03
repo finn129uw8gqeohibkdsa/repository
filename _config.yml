@@ -1,0 +1,6 @@
+# Jupyter Book Configuration
+title: "Onderzoek naar de Effectiviteit en Alternatieven van Plastic Recycling"
+author: "Finn, Jaïr, Frank, Jonas"
+execute:
+  execute_notebooks: "auto"
+  execution_timeout: 30

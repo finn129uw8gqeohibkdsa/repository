@@ -1,0 +1,16 @@
+,Primary plastic waste generation by polymer 2019,,,,,
+plastic type,Polymer type,Quantity (million tonnes),% wasted,Note,Source,URL
+1,PET,24.8,8.4%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+2,HDPE,44.8,15.2%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+3,PVC,21.2,7.2%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+4,LDPE,49.2,16.6%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+5,PP,62,21.0%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+6,PS,15.2,5.1%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+7,other,78.3,26.5%,,Our World in Data,https://ourworldindata.org/grapher/plastic-waste-polymer
+,total all,295.5,100.0%,,,
+,,,,,,
+,breakdown of 'other' category,,,,,
+,Other,57.5,,,,
+,"ABS, ASA, SAN",7.3,,,,
+,PUR,11.4,,,,
+,bioplastics,2.1,,,,

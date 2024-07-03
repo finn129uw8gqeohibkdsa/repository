@@ -1,0 +1,21 @@
+# Table of Contents
+format: jb-book
+root: intro
+
+chapters:
+  - file: content/inleiding
+    title: "Inleiding"
+  - file: content/datasets
+    title: "Dataset en Voorbewerking"
+  - file: content/perspective_1
+    title: "Voordelen van Plastic Recycling"
+  - file: content/perspective_2
+    title: "Uitdagingen en Beperkingen van Plastic Recycling"
+  - file: content/summary
+    title: "Samenvatting"
+  - file: content/reflection
+    title: "Reflectie"
+  - file: content/work_distribution
+    title: "Werkverdeling"
+  - file: content/references
+    title: "Referenties"
